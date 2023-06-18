@@ -1,4 +1,3 @@
-# <img src="./Shadab_Photo.jpg" alt="Profile Picture" width="50" height="50"> Welcome to My GitHub Profile!
 
 ## Hello, I'm shaaalaaam! 👋
 
