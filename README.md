@@ -1,5 +1,5 @@
 
-## Hello, I'm shaaalaaam! 👋
+## Hello, I'm Shadab Alam also known as sha1am ! 👋
 
 I am passionate about technology, especially Full stack and Machine Learning , I actively seek job opportunities in these fields. Currently based in New Delhi, India, I am driven by a desire to push the boundaries of what's possible and make a positive impact through my work.
 
