@@ -1,4 +1,4 @@
-# <img src="./ProfilePic.jpg" alt="Logo" width="50" height="50"> Welcome to My GitHub Profile!
+# <img src="./Shadab_Photo.jpg" alt="Logo" width="50" height="50"> Welcome to My GitHub Profile!
 
 ## Introduction
 I am shaaalaaam, an ancient soul in a modern body with a futuristic state of mind. I am actively seeking job opportunities and currently located in New Delhi, India. I have a passion for technology, particularly in the fields of machine learning and artificial intelligence.
